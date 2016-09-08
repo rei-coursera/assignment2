@@ -1,3 +1,3 @@
 # assignment2
 
-https://rei-coursera.github.io/assignment2/
+goto https://rei-coursera.github.io/assignment2/
